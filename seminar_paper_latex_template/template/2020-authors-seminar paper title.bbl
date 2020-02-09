@@ -1,0 +1,86 @@
+\begin{thebibliography}{10}
+
+\bibitem{education-austria}
+Education in austria.
+\newblock
+  \url{https://www.statistik.at/web_de/statistiken/menschen_und_gesellschaft/soziales/gender-statistik/bildung/index.html}.
+\newblock Accessed: 2020-02-07.
+
+\bibitem{computer-science-women}
+Janet Carter and Tony Jenkins.
+\newblock Where have all the girls gone? what entices female students to apply
+  for computer science degrees.
+\newblock 2001.
+
+\bibitem{gender-stereotypes}
+Madeline Heilman.
+\newblock Gender stereotypes and workplace bias.
+\newblock {\em Research in Organizational Behavior}, 32:113–135, 12 2012.
+
+\bibitem{gender-bias-github}
+Nasif Imtiaz, Justin Middleton, Joymallya Chakraborty, Neill Robson, Gina Bai,
+  and Emerson Murphy-Hill.
+\newblock Investigating the effects of gender bias on github.
+\newblock In {\em Proceedings of the 41st International Conference on Software
+  Engineering}, ICSE ’19, page 700–711. IEEE Press, 2019.
+
+\bibitem{open-source-barriers}
+Christopher Mendez, Margaret Burnett, Hema Padala, Zoe Steine-Hanson, Claudia
+  Hilderbrand, Amber Horvath, Charles Hill, Logan Simpson, Nupoor Patil, and
+  Anita Sarma.
+\newblock Open source barriers to entry, revisited: a sociotechnical
+  perspective.
+\newblock pages 1004--1015, 05 2018.
+
+\bibitem{how-diverse-team}
+Marco Ortu, Giuseppe Destefanis, Steve Counsell, Stephen Swift, Roberto
+  Tonelli, and Michele Marchesi.
+\newblock How diverse is your team? investigating gender and nationality
+  diversity in github teams.
+\newblock {\em PeerJ}, 07 2016.
+
+\bibitem{women-floss}
+Gregorio Robles, Laura Reina, Jesus Gonzalez-Barahona, and Santiago Domínguez.
+\newblock Women in free/libre/open source software: The situation in the 2010s.
+\newblock pages 163--173, 05 2016.
+
+\bibitem{prescriptive-gender-stereotypes}
+Laurie Rudman and Peter Glick.
+\newblock Prescriptive gender stereotypes and backlash toward agentic women.
+\newblock {\em Journal of Social Issues}, 57:743 -- 762, 12 2002.
+
+\bibitem{social-barriers-newcomer}
+Igor Steinmacher, Tayana Conte, David Redmiles, and Marco~Aurelio Gerosa.
+\newblock Social barriers faced by newcomers placing their first contribution
+  in open source software projects.
+\newblock 03 2015.
+
+\bibitem{pull-acceptance-women}
+Josh Terrell, Andrew Kofink, Justin Middleton, Clarissa Rainear, Emerson
+  Murphy-Hill, Chris Parnin, and Jon Stallings.
+\newblock Gender differences and bias in open source: Pull request acceptance
+  of women versus men.
+\newblock {\em PeerJ Computer Science}, 3:e111, 05 2017.
+
+\bibitem{gender-tenure-diversity}
+Bogdan Vasilescu, Daryl Posnett, Baishakhi Ray, Mark~G.J. van~den Brand,
+  Alexander Serebrenik, Premkumar Devanbu, and Vladimir Filkov.
+\newblock Gender and tenure diversity in github teams.
+\newblock In {\em Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}, CHI ’15, page 3789–3798, New York, NY,
+  USA, 2015. Association for Computing Machinery.
+
+\bibitem{competence-confidence-gap}
+Zhendong Wang, Yi~Wang, and David Redmiles.
+\newblock Competence-confidence gap: A threat to female developers’
+  contribution on github.
+\newblock In {\em Proceedings of the 40th International Conference on Software
+  Engineering: Software Engineering in Society}, ICSE-SEIS ’18, page 81–90,
+  New York, NY, USA, 2018. Association for Computing Machinery.
+
+\bibitem{pair-programming}
+Linda Werner, Brian Hanks, and Charles Mcdowell.
+\newblock Pair-programming helps female computer science students.
+\newblock {\em ACM Journal of Educational Resources in Computing}, 4, 03 2004.
+
+\end{thebibliography}
